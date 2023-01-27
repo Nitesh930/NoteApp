@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = D:basics_androidNotesApp2app
